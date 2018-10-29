@@ -1,0 +1,12 @@
+{
+    "name": "devd9925/testpackage",
+    "description": "This test package",
+    "authors": [
+        {
+            "name": "softler",
+            "email": "task.softler@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
