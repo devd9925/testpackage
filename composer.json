@@ -8,5 +8,14 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {},
+    "repositories": [
+
+    ],
+    "autoload": {
+        "psr-4": {
+            "Twinsen\\AmazonMwsRepricing\\": ["src/"]
+        }
+    }
+
 }
