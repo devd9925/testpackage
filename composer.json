@@ -9,7 +9,12 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "twinsen/mws-subscription-api":"dev-master"
+        "parsecsv/php-parsecsv": "0.4.5",
+        "raffw/mws-product-api": "dev-master",
+        "exeu/apai-io": "dev-master",
+        "twinsen/mws-subscription-api":"dev-master",
+        "aws/aws-sdk-php":"~3.0",
+        "sunra/php-simple-html-dom-parser": "v1.5.0"
     },
     "repositories": [
 
