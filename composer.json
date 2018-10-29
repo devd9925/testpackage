@@ -8,7 +8,9 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        "twinsen/mws-subscription-api":"dev-master"
+    },
     "repositories": [
 
     ],
